@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    font-size: 18px;
+    max-width: 1440px;
+    justify-content: center;
+    font-family: sans-serif;
+    height: 0 auto;
+    padding-top: 0%;
+}
+Dark cyan: hsl(185, 75%, 39%)
+Very dark desaturated blue: hsl(229, 23%, 23%)
+Dark grayish blue: hsl(227, 10%, 46%)
+Dark gray: hsl(0, 0%, 59%)

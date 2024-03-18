@@ -6,8 +6,19 @@ body{
     font-family: sans-serif;
     height: 0 auto;
     padding-top: 0%;
+    background-image: url(images/bg-pattern-bottom.svg);
 }
+.profile-container img{
+    width: 10%;
+    border-radius: 100%;
+}
+
+
+
+
+
 Dark cyan: hsl(185, 75%, 39%)
 Very dark desaturated blue: hsl(229, 23%, 23%)
 Dark grayish blue: hsl(227, 10%, 46%)
 Dark gray: hsl(0, 0%, 59%)
+
